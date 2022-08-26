@@ -1,4 +1,4 @@
-### Hi there, I'm Dasi Hayu Permana aka Yupe 👋 
+### Hi there, I'm Dasi Hayu Permana aka Dasi 👋 
 
 <!-- [![website](https://img.shields.io/website?label=visit%20my%20website&style=for-the-badge&url=https%3A%2F%2Fnavdplay.github.io%2FPortfolio%2F)](https://navdplay.github.io/Portfolio) -->
 
