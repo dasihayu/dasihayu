@@ -2,7 +2,7 @@
 
 <!-- [![website](https://img.shields.io/website?label=visit%20my%20website&style=for-the-badge&url=https%3A%2F%2Fnavdplay.github.io%2FPortfolio%2F)](https://navdplay.github.io/Portfolio) -->
 
-## I'm a Junior High School student, and a beginner WebDev!!
+## I'm a Senior High School student, and a beginner WebDev!!
 
 - 🌱 I’m currently learning Laravel 8 and TailwindCSS
 - 🥅 2022 Goals: Learn more programming languages
@@ -29,6 +29,6 @@
 
 ---
 
-[website]: https://navdplay.github.io/Portfolio/
+[website]: https://dasihayu.github.io/
 [twitter]: https://twitter.com/hayuper_
 [instagram]: https://www.instagram.com/hayuper_/
