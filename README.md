@@ -23,7 +23,7 @@ Hi there! I'm Dasi Hayu Permana, a 12th-grade student at SMKN 8 Semarang, majori
 
 ## GitHub Stats
 
-![Dasi Hayu Permana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark)  
-![Dasi Hayu Permana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasihayu&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasihayu&show_icons=true&theme=dark)  
 
 Feel free to reach out or follow me on LinkedIn and GitHub for updates on my work and projects. Thanks for visiting my profile! 🌟
