@@ -1,40 +1,30 @@
-##  Dasi Hayu Permana 🚀
+# 👋 Hi there, I'm Dasi Hayu
 
-### About Me 🧑‍💻
+## 🚀 About Me
+I'm a passionate website developer always looking for ways to make the world a better place through code. I love learning new technologies and sharing knowledge with the community.
 
-Hi there! I'm Dasi Hayu Permana, a 12th-grade student at SMKN 8 Semarang, majoring in Software Engineering (RPL). I'm passionate about building user-friendly web applications 🚀 and constantly seeking to improve my skills 📈. Currently, I'm interning at a software house in Banyumanik, gaining valuable experience working on various software projects 🛠️. 
+## 🛠 Technical Skills
+- 💻 Programming Languages: PHP, JavaScript
+- 🌐 Web Development: HTML, CSS, NextJS, Laravel
+- 🗄️ Databases: MySQL, MongoDB
+- 🔧 Tools: Git, Postman, VS Code
 
-### Skills
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasihayu&show_icons=true&theme=radical)
 
-**Front-End Development:**
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](linkedin.com/in/dasi-hayupermana-b96882263)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](dasihayu.github.io)
 
-* ReactJS
-* Tailwind CSS
+## 🎯 2024 Goals
+- [ ] Learn a new framework
+- [ ] Contribute to open source projects
 
-**Back-End Development:**
+## ☕ Want to Chat?
+Feel free to [reach out](mailto:dasihayu1307@gmail.com) if you want to discuss tech, collaborate on a project, or just have a casual conversation!
 
-* Laravel
-* PHP
+## 🎵 Currently Listening To
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31jmicrz2wu6m7drjjlouibn7gje)
 
-**Database Management:**
-
-* MySQL
-* HeidiSQL
-
-**Development Tools:**
-
-* Laragon
-* Git (version control)
-
-### Contact
-
-- **Email**: [dasihayu1307@gmail.com](dasihayu1307@gmail.com)
-- **LinkedIn**: [linkedin.com/in/dasi-hayupermana](https://www.linkedin.com/in/dasi-hayupermana)
-- **GitHub**: [github.com/dasihayu](https://github.com/dasihayu)
-
-### GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasihayu&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasihayu&show_icons=true&theme=dark)
-
-Feel free to reach out or follow me on LinkedIn and GitHub for updates on my work and projects. Thanks for visiting my profile! 
+---
+⭐️ From [dasihayu](https://github.com/dasihayu)
