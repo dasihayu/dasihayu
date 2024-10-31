@@ -30,8 +30,6 @@ const dasi = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dasihayu&theme=tokyonight&hide_border=true&background=00000000)](https://github.com/dasihayu)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31jmicrz2wu6m7drjjlouibn7gje)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](linkedin.com/in/dasi-hayupermana-b96882263)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat&logo=github)](dasihayu.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:dasihayu1307@gmail.com)
